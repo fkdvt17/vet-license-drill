@@ -1,0 +1,26 @@
+{
+  "name": "獣医師国試ドリル v2.3",
+  "short_name": "国試ドリル",
+  "description": "獣医師国家試験対策用のスマホ対応ドリルアプリ。問題別履歴・未回答・間違い復習・ヒートマップ対応。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f18",
+  "theme_color": "#0d0f18",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
