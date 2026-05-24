@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vet-license-drill-v2.3.1-choice-toggle';
+const CACHE_NAME = 'vet-license-drill-v2.3.2-textfix';
 const APP_SHELL = [
   './',
   './index.html',
